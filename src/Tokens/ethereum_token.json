@@ -1,0 +1,60 @@
+{
+    "tokens": [
+        {
+            "chainId": 42,
+            "asset": "c60_t0xa36085F69e2889c224210F603D836748e7dC0088",
+            "type": "ERC20",
+            "address": "0xa36085F69e2889c224210F603D836748e7dC0088",
+            "name": "ChainLink",
+            "symbol": "LINK",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
+            "pairs": [],
+            "id": 101
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+            "type": "ERC20",
+            "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+            "cAddress": "0x41B5844f4680a8C38fBb695b7F9CFd1F64474a72",
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+            "pairs": [],
+            "id": 113
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
+            "type": "ERC20",
+            "address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
+            "cAddress": "0xF0d0EB522cfa50B716B3b1604C4F0fA6f04376AD",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+            "pairs": [],
+            "id": 114
+        },
+        {
+            "chainId": 42,
+            "asset": "c60_t0x07de306FF27a2B630B1141956844eB1552B956B5",
+            "type": "ERC20",
+            "address": "0x07de306FF27a2B630B1141956844eB1552B956B5",
+            "cAddress": "0x3f0A0EA2f86baE6362CF9799B523BA06647Da018",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+            "pairs": [],
+            "id": 150
+        }
+    ],
+    "version": {
+        "major": 14,
+        "minor": 0,
+        "patch": 0
+    }
+}
